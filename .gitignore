@@ -1,0 +1,22 @@
+# Compiled binaries & disk images (attached to GitHub Releases instead)
+*.UPD
+*.upd
+*.iso
+*.img
+*.zip
+*.tar.gz
+*.cpio.gz
+*.so
+
+# macOS system files
+.DS_Store
+
+# Scratch and local-only folders
+scratch/
+custom_stage/
+__pycache__/
+*.pyc
+OPUSPatcher-0.7.0-R71-7710-mac/
+OmnisDuo-Duet-1/
+opusquadmods-R120/
+FIX_REQUEST_PROMPT.md
